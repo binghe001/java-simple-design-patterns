@@ -23,6 +23,7 @@ package io.binghe.design.abstractfactory;
  * @copyright 公众号: 冰河技术
  */
 public class WhiteAnimalFactory implements IAnimalFactory{
+
     @Override
     public ICat createCat() {
         return new WhiteCat();
