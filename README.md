@@ -46,6 +46,7 @@
 
 ## 专栏文章
 
+* [《Java极简设计模式》第01章：单例模式（Singleton）](https://binghe.gitcode.host/md/core/design/2023-07-09-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC01%E7%AB%A0-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.html)
 
 
 
