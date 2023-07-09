@@ -44,10 +44,15 @@
     <a href="https://github.com/binghe001/BingheGuide">关注冰河技术，解锁更多技能！</a>
 </div>
 
+## 项目结构
+
+* java-simple-design-singleton：单例模式（Singleton）
+* java-simple-design-abstractfactoty：抽象工厂模式（AbstractFactoty）
+* 
 ## 专栏文章
 
 * [《Java极简设计模式》第01章：单例模式（Singleton）](https://binghe.gitcode.host/md/core/design/2023-07-09-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC01%E7%AB%A0-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.html)
-
+* [《Java极简设计模式》第02章：抽象工厂模式(AbstractFactoty)](https://binghe.gitcode.host/md/core/design/2023-07-10-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC02%E7%AB%A0-%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.html)
 
 
 ## 星球服务

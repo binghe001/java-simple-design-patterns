@@ -1,0 +1,64 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+interface ICat{
+    + void eat()
+}
+
+interface IDog{
+     + void eat()
+}
+
+interface IAnimalFactory{
+    + ICat createCat()
+    + IDog createDog()
+}
+
+class BlackAnimalFactory{
+    + ICat createCat()
+    + IDog createDog()
+}
+
+class WhiteAnimalFactory{
+    + ICat createCat()
+    + IDog createDog()
+}
+
+class BlackCat{
+    + void eat()
+}
+
+class BlackDog{
+    + void eat()
+}
+
+class WhiteCat{
+    + void eat()
+}
+
+class WhiteDog{
+    + void eat()
+}
+
+IAnimalFactory <|.  BlackAnimalFactory : 实现
+WhiteAnimalFactory .|> IAnimalFactory : 实现
+
+ICat <|. BlackCat : 实现
+WhiteCat .|> ICat : 实现
+
+IDog <|. BlackDog : 实现
+WhiteDog <|. IDog : 实现
+
+ICat <.. IAnimalFactory : 依赖
+ICat <.. WhiteAnimalFactory : 依赖
+WhiteCat <.. WhiteAnimalFactory : 依赖
+ICat <.. BlackAnimalFactory : 依赖
+BlackCat <.. BlackAnimalFactory : 依赖
+
+IAnimalFactory ..> IDog : 依赖
+WhiteAnimalFactory ..> WhiteDog : 依赖
+WhiteAnimalFactory ..> IDog : 依赖
+BlackAnimalFactory ..> IDog : 依赖
+BlackAnimalFactory ..> BlackDog : 依赖
+
+@enduml
