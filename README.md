@@ -37,6 +37,7 @@
 添加微信：[hacker_binghe](https://binghe.gitcode.host/images/personal/hacker_binghe.jpg) - 备注来意
 
 ## 关于本仓库
+
 📚 本仓库是[《Java极简设计模式》](https://binghe.gitcode.host/md/core/design/2023-07-09-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC01%E7%AB%A0-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.html)专栏源码，多一句没有，少一句不行，用最简短的篇幅讲述设计模式最核心的知识。
 
 
