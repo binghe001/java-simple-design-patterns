@@ -16,6 +16,7 @@
         <module>java-simple-design-prototype</module>
         <module>java-simple-design-adapter</module>
         <module>java-simple-design-decorator</module>
+        <module>java-simple-design-facade</module>
     </modules>
 
     <properties>
