@@ -17,6 +17,7 @@
         <module>java-simple-design-adapter</module>
         <module>java-simple-design-decorator</module>
         <module>java-simple-design-facade</module>
+        <module>java-simple-design-proxy</module>
     </modules>
 
     <properties>
