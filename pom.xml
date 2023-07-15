@@ -18,6 +18,7 @@
         <module>java-simple-design-decorator</module>
         <module>java-simple-design-facade</module>
         <module>java-simple-design-proxy</module>
+        <module>java-simple-design-bridge</module>
     </modules>
 
     <properties>
