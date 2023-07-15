@@ -19,6 +19,7 @@
         <module>java-simple-design-facade</module>
         <module>java-simple-design-proxy</module>
         <module>java-simple-design-bridge</module>
+        <module>java-simple-design-composite</module>
     </modules>
 
     <properties>
