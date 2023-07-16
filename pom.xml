@@ -21,6 +21,7 @@
         <module>java-simple-design-bridge</module>
         <module>java-simple-design-composite</module>
         <module>java-simple-design-flyweight</module>
+        <module>java-simple-design-cor</module>
     </modules>
 
     <properties>
