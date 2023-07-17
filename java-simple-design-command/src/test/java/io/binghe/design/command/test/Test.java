@@ -1,4 +1,4 @@
-/**
+package io.binghe.design.command.test; /**
  * Copyright 2022-9999 the original author or authors.
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
