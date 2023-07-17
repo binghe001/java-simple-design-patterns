@@ -22,6 +22,7 @@
         <module>java-simple-design-composite</module>
         <module>java-simple-design-flyweight</module>
         <module>java-simple-design-cor</module>
+        <module>java-simple-design-command</module>
     </modules>
 
     <properties>
