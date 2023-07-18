@@ -23,6 +23,7 @@
         <module>java-simple-design-flyweight</module>
         <module>java-simple-design-cor</module>
         <module>java-simple-design-command</module>
+        <module>java-simple-design-interpreter</module>
     </modules>
 
     <properties>
