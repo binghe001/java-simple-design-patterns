@@ -27,6 +27,7 @@
         <module>java-simple-design-interator</module>
         <module>java-simple-design-mediator</module>
         <module>java-simple-design-memento</module>
+        <module>java-simple-design-observer</module>
     </modules>
 
     <properties>
