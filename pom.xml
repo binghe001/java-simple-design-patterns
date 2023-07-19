@@ -29,6 +29,7 @@
         <module>java-simple-design-memento</module>
         <module>java-simple-design-observer</module>
         <module>java-simple-design-state</module>
+        <module>java-simple-design-strategy</module>
     </modules>
 
     <properties>
