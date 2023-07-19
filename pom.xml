@@ -31,6 +31,7 @@
         <module>java-simple-design-state</module>
         <module>java-simple-design-strategy</module>
         <module>java-simple-design-templatemethod</module>
+        <module>java-simple-design-visitor</module>
     </modules>
 
     <properties>
