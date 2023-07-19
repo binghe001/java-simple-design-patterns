@@ -24,6 +24,7 @@
         <module>java-simple-design-cor</module>
         <module>java-simple-design-command</module>
         <module>java-simple-design-interpreter</module>
+        <module>java-simple-design-interator</module>
     </modules>
 
     <properties>
